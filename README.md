@@ -1,4 +1,4 @@
-﻿# 📘 Equiniti Automation Training - Oct 2025
+﻿# 📘 Expleo Solutions API Automation Training - Oct 2025
 
 This repository group is part of the **API Automation Training** using **RestAssured**, **Cucumber**, and **OpenAPI Specification**.
 
@@ -6,7 +6,7 @@ This repository group is part of the **API Automation Training** using **RestAss
 
 ## 📂 Repositories Overview
 
-### 🔹 Java Concepts
+### 🔹 Java API Using restassured.io
 **Repository:** [java-api-automation-expleo-oct-2025](https://github.com/balaji-githubstore/java-api-automation-expleo-oct-2025.git)
 
 #### 🧠 Key Topics Covered
@@ -20,7 +20,7 @@ This repository group is part of the **API Automation Training** using **RestAss
 
 ---
 
-## 🧪 Framework 1: Java BDD Framework
+## 🧪 Framework 1: Java BDD Framework For API Automation
 **Repository:** [java-api-bdd-expleo-oct-2025](https://github.com/balaji-githubstore/java-api-bdd-expleo-oct-2025.git)
 
 ### 🔀 Branches
